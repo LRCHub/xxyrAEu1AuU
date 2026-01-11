@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "アドベンチャー - Rearrange 2023 -",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-01-11T14:43:32.178435Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アドベンチャー",
+      "artist": "ガロ",
+      "has_synced": false,
+      "path": "select/01_アドベンチャー_ガロ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アドベンチャー",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/02_アドベンチャー_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アドベンチャー",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/03_アドベンチャー_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "プライム・アドベンチャー",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/04_プライム・アドベンチャー_Liella!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アドベンチャー",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/05_アドベンチャー_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アドバンス・アドベンチャー",
+      "artist": "GARDEN",
+      "has_synced": true,
+      "path": "select/06_アドバンス・アドベンチャー_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アドベンチャー",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/07_アドベンチャー_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "カーリー・アドベンチャー",
+      "artist": "CHAI",
+      "has_synced": false,
+      "path": "select/08_カーリー・アドベンチャー_CHAI.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アドベンチャー",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/09_アドベンチャー_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アドバンス・アドベンチャー",
+      "artist": "GARDEN",
+      "has_synced": false,
+      "path": "select/10_アドバンス・アドベンチャー_GARDEN.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アドベンチャー",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/11_アドベンチャー_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アドバンス・アドベンチャー",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/12_アドバンス・アドベンチャー_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "a・chi-a・chi アドベンチャー",
+      "artist": "A・chi-a・chi",
+      "has_synced": true,
+      "path": "select/13_a・chi-a・chi_アドベンチャー_A・chi-a・chi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "アドバンス・アドベンチャー ~Advance Adventure~",
+      "artist": "GARDEN",
+      "has_synced": true,
+      "path": "select/14_アドバンス・アドベンチャー_~Advance_Adventure~_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "アドバンス・アドベンチャー 〜Advance Adventure〜",
+      "artist": "GARDEN",
+      "has_synced": true,
+      "path": "select/15_アドバンス・アドベンチャー_〜Advance_Adventure〜_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "アドバンス・アドベンチャー 〜Advance Adventure〜",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/16_アドバンス・アドベンチャー_〜Advance_Adventure〜_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アドベンチャー",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_アドベンチャー_サカナクション.txt"
+    }
+  ]
+}
